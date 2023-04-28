@@ -1,0 +1,18 @@
+DataSet no son más que datos formateados que nos permiten hacer ciencia de datos.
+
+
+https://github.com/microsoft/crea-un-dataset
+https://www.youtube.com/watch?v=zQ_AA5u4pOU
+
+El archivo incluye comentarios que te guiaran en el proceso y la funcion main() que se encargara de ejecutar el codigo. No te olvides de actualizar la funcion para usar los datos limpios que vas agregando!
+
+Si tienes dudas, usa el video como guia.
+
+Objetivos
+Limpiar los datos, linea por linea con Python
+Reducir el numero de datos identificando duplicados
+Normalizar el texto con minúsculas
+Identificar si las rutas estan abiertas o cerradas, usando un 0 para cerrado y un 1 para abierto
+Crear un archivo CSV con los datos limpios y ordenados
+
+
